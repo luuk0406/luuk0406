@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luuk0406
-- 👀 I’m interested in backend frameworks & development
+- 👀 I’m interested in cool websites & backend frameworks
 - 🌱 I’m currently learning .NET 
 - 💞️ I’m not looking to collaborate just yet 
 - 📫 You can reach me on here or on my LinkedIn
